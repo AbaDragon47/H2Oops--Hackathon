@@ -1,0 +1,1 @@
+9999999999{"name": "pytorch", "version": "1.0.2", "summary": "", "requires_dist": null, "requires_python": null, "files": [{"file": "pytorch-1.0.2.tar.gz", "hash": "sha256:a6915d372c085a02eceebf59d16cbcc18a2693ac3487a53e3cc8be31fee65079"}], "yanked": false, "_cache_version": "2.0.0"}
